@@ -1,1 +1,1 @@
-Questions are ordered from 1 to 9.
+Questions are in alphabetical order from A to Z.
